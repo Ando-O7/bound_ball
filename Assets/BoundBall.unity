@@ -420,7 +420,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 256609442}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: eb7fc26c6b37d4c37b20547bf4767da9, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -564,7 +564,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 498645476}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: eb7fc26c6b37d4c37b20547bf4767da9, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -964,7 +964,7 @@ GameObject:
   - component: {fileID: 1474589497}
   - component: {fileID: 1474589496}
   m_Layer: 0
-  m_Name: ball
+  m_Name: ball1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1038,7 +1038,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1474589494}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: eb7fc26c6b37d4c37b20547bf4767da9, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1138,7 +1138,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1486787953}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: eb7fc26c6b37d4c37b20547bf4767da9, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1322,7 +1322,7 @@ SphereCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1760905352}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: eb7fc26c6b37d4c37b20547bf4767da9, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
