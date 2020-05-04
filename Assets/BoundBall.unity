@@ -1749,11 +1749,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e2b8ace99f7c4c209e908a02c1bd319, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ball1: {fileID: 0}
-  ball2: {fileID: 0}
-  ball3: {fileID: 0}
-  ball4: {fileID: 0}
-  ball5: {fileID: 0}
+  ball1: {fileID: 1474589494}
+  ball2: {fileID: 256609442}
+  ball3: {fileID: 1760905352}
+  ball4: {fileID: 1486787953}
+  ball5: {fileID: 498645476}
 --- !u!1 &2017936663
 GameObject:
   m_ObjectHideFlags: 0
